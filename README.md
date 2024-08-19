@@ -1,10 +1,6 @@
-# Simple HTTP Server in C
-
-Este proyecto implementa un servidor HTTP simple en C. El objetivo es proporcionar una base para entender cómo funcionan los servidores HTTP a nivel bajo, sin usar bibliotecas de alto nivel.
-
 ## Descripción
 
-Este servidor HTTP básico está diseñado para escuchar en un puerto especificado y responder a solicitudes HTTP con un mensaje simple. Es útil como ejemplo educativo para aprender sobre el manejo de solicitudes y respuestas HTTP en un entorno de bajo nivel.
+Este proyecto es un sencillo juego de Snake que se ejecuta en la terminal, implementado en C puro. El objetivo del juego es controlar una serpiente que se desplaza por un tablero, comiendo comida que aparece de forma aleatoria para crecer. El juego termina si la serpiente colisiona con las paredes del tablero o consigo misma.
 
 ## Compilación
 

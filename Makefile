@@ -20,3 +20,6 @@ $(TARGET): $(SRC)
 # Regla para limpiar archivos generados
 clean:
 	rm -f $(TARGET)
+
+run: all
+	./bin/http_server_c
